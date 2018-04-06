@@ -1,0 +1,9 @@
+Building Magicoin
+
+See doc/readme-qt.rst for instructions on building Magicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Magicoin.
+
+See doc/build-*.txt for instructions on building magicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Magicoin.
